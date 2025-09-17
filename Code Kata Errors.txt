@@ -1,0 +1,23 @@
+Done :
+1. Input/Output (10)
+2. Absolute Beginner(30)
+3. Loop (3)
+4. Looping (14) : Ongoing
+5. Basic (41) : Ongoing
+6. 
+
+
+
+
+
+Absolute Beginner : 
+
+1. 768. Leap Year Check-2
+2. 769. Quadratic Equation Solver
+3. 773. Factorial of a Number-3
+4. 775. Celsius to Fahrenheit Conversion
+5. 776. Circle Circumference Calculation
+6. 779. Find the Smaller Number
+7. 780. Simple Interest Calculator
+8. 940. Sum of Numbers up to N
+9. 946. HCF of two integers
