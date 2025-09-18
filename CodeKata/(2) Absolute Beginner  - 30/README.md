@@ -42,3 +42,22 @@
 
 **20.** Print Input Five Times **(935)**
 
+**21.** Print Integer N Times **(936)**
+
+**22.** Print Numbers 1 to N **(937)**
+
+**23.** Print Even Numbers up to N **(938)**
+
+**24.** Reverse Integer Sequence **(939)**
+
+**25.** Sum of Numbers up to N **(940)**
+
+**26.** Print Integer Digits **(941)**
+
+**27.** Sum of Integer Digits **(942)**
+
+**28.** Even and Odd Digits **(943)**
+
+**29.** Reverse a String-4 **(944)**
+
+**30.** HCF of two integers **(946)**
