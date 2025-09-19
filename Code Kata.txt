@@ -1,6 +1,6 @@
 Done :
 1. Input/Output (10)
-2. Absolute Beginner (30)
+2. Absolute Beginner (30) 
 3. Basic (41) : Ongoing
 4. Looping (14) : Ongoing
 5. Loop (3)
