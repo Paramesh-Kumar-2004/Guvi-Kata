@@ -11,10 +11,10 @@ inp.on("line", (data) => {
 });
 
 inp.on("close", () => {
-    let vp = userInput[0].split(" ")
-    let v = +vp[0]
-    let p = +vp[1]
-    for (let i = 0; i < p; i++) {
-        console.log(v)
+
+    let vp = +userInput[0]
+    for (let i = 0; i < vp; i++) {
+        console.log(i + 1)
     }
+
 });
