@@ -8,19 +8,20 @@ const userInput = [];
 
 inp.on("line", (data) => {
   userInput.push(data);
-}); 
+});
 
 inp.on("close", () => {
 
-  let v = userInput[0].split(" ")[1]
-  let p = userInput[1].split(" ")
+  const [N, K] = userInput[0].trim().split(" ").map(Number);
+  const arr = userInput[1].trim().split(" ").map(Number);
+  const filtered = arr.filter(ele => ele < K);
 
-  const pv = p.filter(ele => Number(v) > Number(v))
-
-  if (pv.length > 1) {
-    console.log(pv.join(" "))
+  if (filtered.length === 0) {
+    console.log(-1);
   }
   else {
-    console.log(-1)
+    filtered.sort((a, b) => a - b);
+    console.log(filtered.join(" "));
   }
+
 });
