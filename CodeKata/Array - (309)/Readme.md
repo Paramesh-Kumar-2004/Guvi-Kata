@@ -18,7 +18,8 @@
 10. **Count String Occurrences** (39)
 11. **Print till next zero** (40)
 12. **Pair Sum Check** (42)
-
+13. **Common Elements in Sorted Arrays** (44)
+14. **Sorted Elements Less Than K** (45)
 
 
 ---
