@@ -24,6 +24,7 @@
 16. **Numbers Repeated K Times** (47)
 17. **Longest Repeating Sequence** (49)
 18. **Delete Last K Array Elements** (50)
+19. **Max of Consecutive Pairs** (52)
 
 
 ---
