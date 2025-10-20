@@ -21,7 +21,8 @@
 13. **Common Elements in Sorted Arrays** (44)
 14. **Sorted Elements Less Than K** (45)
 15. **Descending Elements Below N** (46)
-16. 
+16. **Numbers Repeated K Times** (47)
+17. **Longest Repeating Sequence** (49)
 
 
 ---
