@@ -23,6 +23,7 @@
 15. **Descending Elements Below N** (46)
 16. **Numbers Repeated K Times** (47)
 17. **Longest Repeating Sequence** (49)
+18. **Delete Last K Array Elements** (50)
 
 
 ---
