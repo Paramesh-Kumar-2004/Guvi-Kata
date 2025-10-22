@@ -26,7 +26,7 @@
 18. **Delete Last K Array Elements** (50)
 19. **Max of Consecutive Pairs** (52)
 20. **Rotated Array Rotation Count** (53)
-
+21. **Find Position of Number in Array** (54)
 
 ---
 
