@@ -29,6 +29,7 @@
 21. **Find Position of Number in Array** (54)
 22. **Counting Distinct Pairs** (55)
 23. **Find Different Number in Series** (56)
+24. **Max Length Increasing Subarray** (57)
 
 
 ---
