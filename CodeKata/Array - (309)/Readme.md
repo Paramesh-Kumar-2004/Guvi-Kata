@@ -32,6 +32,10 @@
 24. **Max Length Increasing Subarray** (57)
 25. **Merge and Sort Two Arrays** (58)
 26. **Max Difference in Array** (59)
+27. **Minimum Difference in Array** (60)
+28. **Reverse Words Except Ends** (64)
+
+
 
 
 ---
