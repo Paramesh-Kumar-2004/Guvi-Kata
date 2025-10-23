@@ -30,6 +30,7 @@
 22. **Counting Distinct Pairs** (55)
 23. **Find Different Number in Series** (56)
 24. **Max Length Increasing Subarray** (57)
+25. **Merge and Sort Two Arrays** (58)
 
 
 ---
