@@ -39,7 +39,9 @@
 31. **Cyclic Right Shift Array** (72)
 32. **Reverse String After Removing Vowels** (74)
 33. **Max Repeated Character Count** (75)
-34. 
+34. **Find the Unique Number-2** (76)
+
+
 ---
 
 This folder contains coding practice problems focused on **array**, as part of the Guvi CodeKata series.
