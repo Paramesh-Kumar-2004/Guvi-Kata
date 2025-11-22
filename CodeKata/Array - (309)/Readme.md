@@ -36,12 +36,10 @@
 28. **Reverse Words Except Ends** (64)
 29. **Isomorphic Strings** (66)
 30. **Swap Odd Even String Characters** (67)
-31. **Cyclic Right Shift Array** (72) 
+31. **Cyclic Right Shift Array** (72)
 32. **Reverse String After Removing Vowels** (74)
-
-
-
-
+33. **Max Repeated Character Count** (75)
+34. 
 ---
 
 This folder contains coding practice problems focused on **array**, as part of the Guvi CodeKata series.
