@@ -41,6 +41,9 @@
 33. **Max Repeated Character Count** (75)
 34. **Find the Unique Number-2** (76)
 35. **Smallest LCM of two numbers** (77)
+36. **Anagram Count for kabali** (78)
+37. **Sorted Prime Factors** (79)
+38. **Encode String by Adding 3** (80)
 
 ---
 
