@@ -40,7 +40,7 @@
 32. **Reverse String After Removing Vowels** (74)
 33. **Max Repeated Character Count** (75)
 34. **Find the Unique Number-2** (76)
-
+35. **Smallest LCM of two numbers** (77)
 
 ---
 
