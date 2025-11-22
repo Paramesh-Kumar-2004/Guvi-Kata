@@ -44,6 +44,7 @@
 36. **Anagram Count for kabali** (78)
 37. **Sorted Prime Factors** (79)
 38. **Encode String by Adding 3** (80)
+39. **Collinearity of Three Points** (81)
 
 ---
 
