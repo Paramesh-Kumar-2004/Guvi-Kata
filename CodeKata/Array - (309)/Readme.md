@@ -45,6 +45,7 @@
 37. **Sorted Prime Factors** (79)
 38. **Encode String by Adding 3** (80)
 39. **Collinearity of Three Points** (81)
+40. **Max after each insertion** (83)
 
 ---
 
