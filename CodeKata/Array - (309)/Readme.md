@@ -46,6 +46,7 @@
 38. **Encode String by Adding 3** (80)
 39. **Collinearity of Three Points** (81)
 40. **Max after each insertion** (83)
+41. **Remove Extra Spaces** (86)
 
 ---
 
