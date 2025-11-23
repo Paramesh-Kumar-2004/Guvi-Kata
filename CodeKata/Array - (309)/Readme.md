@@ -48,6 +48,7 @@
 40. **Max after each insertion** (83)
 41. **Remove Extra Spaces** (86)
 42. **Counting Perfect Squares in a Range** (89)
+43. **String Difference Check** (90)
 
 ---
 
