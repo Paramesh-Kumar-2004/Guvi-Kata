@@ -49,7 +49,7 @@
 41. **Remove Extra Spaces** (86)
 42. **Counting Perfect Squares in a Range** (89)
 43. **String Difference Check** (90)
-
+44. **Parentheses Balancing** (91)
 ---
 
 This folder contains coding practice problems focused on **array**, as part of the Guvi CodeKata series.
