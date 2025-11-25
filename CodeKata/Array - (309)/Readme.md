@@ -58,6 +58,7 @@
 50. **Check Sorted Array** (102)
 52. **Bitwise XOR of Array Elements** (115)
 53. **Decimal to Binary Conversion** (120)
+54. **Swap Adjacent Elements** (122)
 
 
 
