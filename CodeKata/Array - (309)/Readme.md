@@ -56,9 +56,10 @@
 48. **Even Factors of a Number** (98)
 49. **Prime Pairs for a Number** (99)
 50. **Check Sorted Array** (102)
-52. **Bitwise XOR of Array Elements** (115)
-53. **Decimal to Binary Conversion** (120)
-54. **Swap Adjacent Elements** (122)
+51. **Bitwise XOR of Array Elements** (115)
+52. **Decimal to Binary Conversion** (120)
+53. **Swap Adjacent Elements** (122)
+54. **Sum of Odd Numbers in a Range** (126)
 
 
 
