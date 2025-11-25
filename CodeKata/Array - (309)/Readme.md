@@ -50,6 +50,7 @@
 42. **Counting Perfect Squares in a Range** (89)
 43. **String Difference Check** (90)
 44. **Parentheses Balancing** (91)
+45. **Sorted Array Search** (92)
 
 
 ---
