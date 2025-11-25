@@ -51,6 +51,8 @@
 43. **String Difference Check** (90)
 44. **Parentheses Balancing** (91)
 45. **Sorted Array Search** (92)
+46. **Count Occurrences of K in N** (94)
+
 
 
 ---
