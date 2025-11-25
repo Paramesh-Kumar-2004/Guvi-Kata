@@ -60,6 +60,7 @@
 52. **Decimal to Binary Conversion** (120)
 53. **Swap Adjacent Elements** (122)
 54. **Sum of Odd Numbers in a Range** (126)
+55. **Check Digits 0 to K in N** (127)
 
 
 
