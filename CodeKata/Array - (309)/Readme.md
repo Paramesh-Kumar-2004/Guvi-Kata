@@ -52,6 +52,7 @@
 44. **Parentheses Balancing** (91)
 45. **Sorted Array Search** (92)
 46. **Count Occurrences of K in N** (94)
+47. **Minimum Snow Drifts** (97)
 
 
 
