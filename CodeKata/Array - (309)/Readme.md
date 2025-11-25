@@ -54,6 +54,8 @@
 46. **Count Occurrences of K in N** (94)
 47. **Minimum Snow Drifts** (97)
 48. **Even Factors of a Number** (98)
+49. **Prime Pairs for a Number** (99)
+
 
 
 
