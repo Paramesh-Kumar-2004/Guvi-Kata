@@ -57,7 +57,7 @@
 49. **Prime Pairs for a Number** (99)
 50. **Check Sorted Array** (102)
 52. **Bitwise XOR of Array Elements** (115)
-
+53. **Decimal to Binary Conversion** (120)
 
 
 
