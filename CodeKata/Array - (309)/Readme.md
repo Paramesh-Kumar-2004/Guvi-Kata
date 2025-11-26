@@ -71,7 +71,9 @@
 63. **Remove Duplicates from Array** (135)
 64. **Prefix Sum Array** (137)
 65. **Suffix Sum of an Array** (138)
-66. **
+66. **Prefix and Suffix Sum** (139)
+67. **Common Numbers in Sorted Order** (140)
+
 
 
 
