@@ -16,7 +16,9 @@ inp.on("close", () => {
     let vp = true
 
     for (let i = 0; i <= p; i++) {
-        if (!v.includes(i)) return false
+        if (!v.includes(i)) {
+            vp = false
+        }
     }
 
     console.log(vp ? "yes" : "no")
