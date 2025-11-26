@@ -70,6 +70,7 @@
 62. **Sort and Print Original Indices** (134)
 63. **Remove Duplicates from Array** (135)
 64. **Prefix Sum Array** (137)
+65. **Suffix Sum of an Array** (138)
 
 
 
