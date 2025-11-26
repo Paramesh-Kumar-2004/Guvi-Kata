@@ -64,6 +64,7 @@
 56. **Binary to Octal Conversion** (128)
 57. **Binary to Hexadecimal Conversion** (129)
 58. **Max Sum of Adjacent Pairs** (130)
+59. **Max Sum of Consecutive Pairs** (131)
 
 
 
