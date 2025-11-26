@@ -66,9 +66,7 @@
 58. **Max Sum of Adjacent Pairs** (130)
 59. **Max Sum of Consecutive Pairs** (131)
 60. **Minimize Max Pair Sum** (132)
-
-
-
+61. **Sum of Consecutive Pairs** (133)
 
 ---
 
