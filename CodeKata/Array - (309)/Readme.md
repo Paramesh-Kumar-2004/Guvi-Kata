@@ -67,6 +67,10 @@
 59. **Max Sum of Consecutive Pairs** (131)
 60. **Minimize Max Pair Sum** (132)
 61. **Sum of Consecutive Pairs** (133)
+62. **Sort and Print Original Indices** (134)
+
+
+
 
 ---
 
