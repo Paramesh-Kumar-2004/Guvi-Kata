@@ -15,6 +15,7 @@
 7. **Case-Sensitive String Equality** (36)
 8. **First Occurrence of Character** (37)
 9. **Character Count in String** (38)
+10. **Count String Occurrences** (39)
 
 
 
