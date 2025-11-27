@@ -73,6 +73,8 @@
 65. **Suffix Sum of an Array** (138)
 66. **Prefix and Suffix Sum** (139)
 67. **Common Numbers in Sorted Order** (140)
+68. **Counting Subarrays** (141)
+69. **
 
 
 
