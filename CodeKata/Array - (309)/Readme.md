@@ -74,7 +74,8 @@
 66. **Prefix and Suffix Sum** (139)
 67. **Common Numbers in Sorted Order** (140)
 68. **Counting Subarrays** (141)
-69. **
+69. **Character Frequency Sort** (144)
+70. **Lexicographically Smallest String** (148)
 
 
 
