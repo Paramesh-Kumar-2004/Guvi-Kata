@@ -13,6 +13,7 @@
 5. **Print String Without Semicolon** (29)
 6. **String Length Without Functions** (35)
 7. **Case-Sensitive String Equality** (36)
+8. **First Occurrence of Character** (37)
 
 
 
