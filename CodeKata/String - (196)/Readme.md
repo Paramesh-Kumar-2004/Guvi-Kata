@@ -11,6 +11,7 @@
 3. **String Middle Element Modification** (9)
 4. **Odd Even String Split** (17)
 5. **Print String Without Semicolon** (29)
+6. **String Length Without Functions** (35)
 
 
 
