@@ -14,6 +14,7 @@
 6. **String Length Without Functions** (35)
 7. **Case-Sensitive String Equality** (36)
 8. **First Occurrence of Character** (37)
+9. **Character Count in String** (38)
 
 
 
