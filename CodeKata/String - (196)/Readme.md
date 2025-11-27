@@ -7,6 +7,7 @@
 ### Questions
 
 1. **Palindrome Check** (5)
+2. **Vowel Check in String** (6)
 
 
 
