@@ -18,6 +18,8 @@
 10. **Count String Occurrences** (39)
 11. **Common Characters in Strings** (41)
 12. **Remove Characters from String** (51)
+13. **Reverse a String-2** (62)
+
 
 
 
