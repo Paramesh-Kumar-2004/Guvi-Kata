@@ -30,6 +30,7 @@
 22. **Reverse String After Removing Vowels** (74)
 23. **Max Repeated Character Count** (75)
 24. **Anagram Count for kabali** (78)
+25. **Encode String by Adding 3** (80)
 
 
 
