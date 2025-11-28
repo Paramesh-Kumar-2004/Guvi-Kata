@@ -29,9 +29,7 @@
 21. **Sum of Squares of Digits** (73)
 22. **Reverse String After Removing Vowels** (74)
 23. **Max Repeated Character Count** (75)
-24. **
-
-
+24. **Anagram Count for kabali** (78)
 
 
 
@@ -43,8 +41,6 @@ This folder contains coding practice problems focused on Strings, as part of the
 
 - Each file includes solutions or exercises related to String concepts in programming.
 - Problems are designed to improve logical thinking and proficiency with Strings.
-
-
 
 ### Requirements
 
