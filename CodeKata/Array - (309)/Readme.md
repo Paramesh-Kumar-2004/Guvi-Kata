@@ -76,6 +76,7 @@
 68. **Counting Subarrays** (141)
 69. **Character Frequency Sort** (144)
 70. **Lexicographically Smallest String** (148)
+71. **Prime Factorization** (150)
 
 
 
