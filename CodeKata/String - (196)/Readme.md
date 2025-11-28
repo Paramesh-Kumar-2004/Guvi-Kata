@@ -26,6 +26,7 @@
 18. **CamelCase Conversion** (68)
 19. **One Character Difference** (70)
 20. **Holiday Check** (71)
+21. **Sum of Squares of Digits** (73)
 
 
 
