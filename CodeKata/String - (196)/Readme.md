@@ -28,6 +28,8 @@
 20. **Holiday Check** (71)
 21. **Sum of Squares of Digits** (73)
 22. **Reverse String After Removing Vowels** (74)
+23. **Max Repeated Character Count** (75)
+24. **
 
 
 
