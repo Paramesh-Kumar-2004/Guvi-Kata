@@ -85,6 +85,8 @@
 77. **Conditional Prefix Sum Array** (157)
 78. **Odd Digit Sum Check** (158)
 79. **Find Smallest in Range** (161)
+80. **Sort Half Ascending, Half Descending** (162)
+
 
 
 
