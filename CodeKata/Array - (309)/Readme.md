@@ -79,6 +79,8 @@
 71. **Prime Factorization** (150)
 72. **Smallest Divisible Number** (151)
 73. **Greatest Common Divisor** (152)
+74. **Print Numbers with Frequency < K** (153)
+
 
 
 
