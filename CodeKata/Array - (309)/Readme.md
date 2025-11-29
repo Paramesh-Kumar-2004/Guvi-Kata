@@ -95,6 +95,8 @@
 87. **Divisible by Previous Integer** (171)
 88. **Permutation Check of 1 to N** (172)
 89. **Extract kth character** (178)
+90. **Uppercase Every Kth Character** (179)
+
 
 
 
