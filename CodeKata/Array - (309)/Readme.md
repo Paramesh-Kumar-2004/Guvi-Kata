@@ -83,6 +83,8 @@
 75. **Even or Odd Product** (155)
 76. **Minimum Subarray Sum-2** (156)
 77. **Conditional Prefix Sum Array** (157)
+78. **Odd Digit Sum Check** (158)
+
 
 
 
