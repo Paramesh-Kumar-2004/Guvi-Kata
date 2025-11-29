@@ -93,7 +93,7 @@
 85. **Consecutive String Check-2** (169)
 86. **Sort Array by Weights** (170)
 87. **Divisible by Previous Integer** (171)
-
+88. **Permutation Check of 1 to N** (172)
 
 
 
