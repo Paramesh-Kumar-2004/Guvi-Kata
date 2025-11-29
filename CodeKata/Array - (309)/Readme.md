@@ -88,6 +88,8 @@
 80. **Sort Half Ascending, Half Descending** (162)
 81. **Count Number Occurrences** (163)
 82. **First 1's Position from Right** (164)
+83. **Count Set Bits in Binary** (166)
+84. **Consecutive String Check** (168)
 
 
 
