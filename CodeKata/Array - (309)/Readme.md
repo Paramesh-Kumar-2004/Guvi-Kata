@@ -90,6 +90,8 @@
 82. **First 1's Position from Right** (164)
 83. **Count Set Bits in Binary** (166)
 84. **Consecutive String Check** (168)
+85. **Consecutive String Check-2** (169)
+
 
 
 
