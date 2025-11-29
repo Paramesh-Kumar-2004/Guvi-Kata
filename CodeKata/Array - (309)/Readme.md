@@ -78,6 +78,7 @@
 70. **Lexicographically Smallest String** (148)
 71. **Prime Factorization** (150)
 72. **Smallest Divisible Number** (151)
+73. **Greatest Common Divisor** (152)
 
 
 
