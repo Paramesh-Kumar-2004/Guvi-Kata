@@ -106,6 +106,7 @@
 98. **Alternating Array Check** (201)
 99. **Least Frequent Number** (204)
 100. **Index Difference of Min and Max** (206)
+101. **Print first N Catalan numbers** (209)
 
 
 
