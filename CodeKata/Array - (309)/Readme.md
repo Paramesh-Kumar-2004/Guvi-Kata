@@ -110,6 +110,8 @@
 102. **Sort Strings by Vowel Count** (211)
 103. **Sum of Negative Numbers** (212)
 104. **Compute A^B** (217)
+105. **Longest Non-Palindrome Substring** (224)
+
 
 
 
