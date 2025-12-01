@@ -119,6 +119,8 @@
 111. **Sum of Digits Palindrome Check** (237)
 112. **Largest Number From N Numbers** (238)
 113. **Find Repeated Numbers** (239)
+114. **Numbers Equal to Index** (240)
+
 
 
 
