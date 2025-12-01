@@ -122,7 +122,7 @@
 114. **Numbers Equal to Index** (240)
 115. **Find the Unique Number** (242)
 116. **Even Odd Position Numbers** (243)
-
+117. **244. Find First Repeated Number** (244)
 
 
 
