@@ -120,6 +120,7 @@
 112. **Largest Number From N Numbers** (238)
 113. **Find Repeated Numbers** (239)
 114. **Numbers Equal to Index** (240)
+115. **Find the Unique Number** (242)
 
 
 
