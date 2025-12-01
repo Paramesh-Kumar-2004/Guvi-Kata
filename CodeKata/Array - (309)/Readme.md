@@ -123,6 +123,7 @@
 115. **Find the Unique Number** (242)
 116. **Even Odd Position Numbers** (243)
 117. **244. Find First Repeated Number** (244)
+118. **Triplet Sum in Array** (245)
 
 
 
