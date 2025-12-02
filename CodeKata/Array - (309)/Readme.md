@@ -136,6 +136,8 @@
 128. **Prime Count in Binary Range** (257)
 129. **Product Array Except Self** (259)
 130. **LCA in BST from ordered input** (260)
+131. **Find Sum Pair** (262)
+
 
 
 
