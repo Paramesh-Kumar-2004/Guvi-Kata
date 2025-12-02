@@ -132,6 +132,8 @@
 124. **String Permutations** (251)
 125. **Find Star and Super Star Elements** (252)
 126. **Nearest Neighbors in Array** (253)
+127. **Common Elements in N Arrays** (256)
+128. **Prime Count in Binary Range** (257)
 
 
 
