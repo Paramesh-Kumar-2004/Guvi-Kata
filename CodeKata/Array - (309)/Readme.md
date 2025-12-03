@@ -138,6 +138,8 @@
 130. **LCA in BST from ordered input** (260)
 131. **Find Sum Pair** (262)
 132. **3-4 Number System** (266)
+133. **Counting Lucky Numbers in an Array** (267)
+134. **
 
 
 
