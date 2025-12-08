@@ -37,6 +37,7 @@
 29. **Space Removal from String** (88)
 30. **String Difference Check** (90)
 31. **Parentheses Balancing** (91)
+32. **Print 1st and 3rd Character** (95)
 
 
 
