@@ -16,7 +16,6 @@ inp.on("close", () => {
     let p = "";
 
     for (let i of v) {
-
         let code = i.charCodeAt(0);
 
         if (code >= 65 && code <= 90) {
@@ -27,7 +26,6 @@ inp.on("close", () => {
         } else {
             p += i;
         }
-
     }
 
     console.log(p);
