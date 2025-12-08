@@ -38,6 +38,8 @@
 30. **String Difference Check** (90)
 31. **Parentheses Balancing** (91)
 32. **Print 1st and 3rd Character** (95)
+33. **Least Repeated Characters** (96)
+34. 
 
 
 
