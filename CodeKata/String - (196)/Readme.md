@@ -33,6 +33,9 @@
 25. **Encode String by Adding 3** (80)
 26. **String Numeric Validation** (84)
 27. **Remove Extra Spaces** (86)
+28. **String Case Conversion** (87)
+
+
 
 
 ---
