@@ -34,6 +34,8 @@
 26. **String Numeric Validation** (84)
 27. **Remove Extra Spaces** (86)
 28. **String Case Conversion** (87)
+29. **Space Removal from String** (88)
+
 
 
 
