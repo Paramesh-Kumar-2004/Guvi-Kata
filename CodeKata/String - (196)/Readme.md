@@ -32,6 +32,7 @@
 24. **Anagram Count for kabali** (78)
 25. **Encode String by Adding 3** (80)
 26. **String Numeric Validation** (84)
+27. **Remove Extra Spaces** (86)
 
 
 ---
