@@ -40,7 +40,7 @@
 32. **Print 1st and 3rd Character** (95)
 33. **Least Repeated Characters** (96)
 34. **Substring Check-2** (103)
-
+35. **Repeating Digits Check** (123)
 
 
 
