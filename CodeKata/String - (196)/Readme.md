@@ -47,7 +47,7 @@
 39. **Binary to Octal Conversion** (128)
 40. **Binary to Hexadecimal Conversion** (129)
 41. **Word Position in String** (136)
-
+42. **Prefix Sum Array** (137)
 
 
 
