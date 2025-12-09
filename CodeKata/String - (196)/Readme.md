@@ -58,6 +58,10 @@
 50. **String Deletion** (154)
 51. **Max Length Alternating Digits Substring** (159)
 52. **Reachable Point** (160)
+53. **First 1's Position from Right** (164)
+54. **Count Set Bits in Binary** (166)
+55. **String Character Check** (167)
+
 
 
 
