@@ -79,7 +79,13 @@
 71. **Capitalize Repeated Letters** (193)
 72. **String Contains Substrings** (195)
 73. **Co-prime String Lengths** (196)
-74. **203. Rock Paper Scissors Winner** (203)
+74. **Rock Paper Scissors Winner** (203)
+75. **Almost Palindrome-2** (207)
+76. **Unique Characters in String** (208)
+77. **Print first N Catalan numbers** (209)
+78. **Vowel then Consonant** (210)
+79. **Sort Strings by Vowel Count** (211)
+
 
 
 
