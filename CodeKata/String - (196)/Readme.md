@@ -68,6 +68,7 @@
 60. **Uppercase Every Kth Character** (179)
 61. **First 1's Position in Binary Product** (182)
 62. **Vowel Check in Strings** (183)
+63. **Find K in an Array** (184)
 
 
 
