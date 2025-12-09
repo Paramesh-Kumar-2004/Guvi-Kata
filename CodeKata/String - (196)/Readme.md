@@ -55,6 +55,7 @@
 47. **Longest Word in a Sentence** (146)
 48. **Lexicographically Smallest String** (148)
 49. **Date to Month Name Conversion** (149)
+50. **String Deletion** (154)
 
 
 
