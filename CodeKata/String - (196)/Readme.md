@@ -70,6 +70,8 @@
 62. **Vowel Check in Strings** (183)
 63. **Find K in an Array** (184)
 64. **GCD of Factorials** (186)
+65. **Run-Length Encoding** (187)
+66. **188. Swap Words Around 'and'** (188)
 
 
 
