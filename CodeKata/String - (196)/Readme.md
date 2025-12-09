@@ -79,6 +79,7 @@
 71. **Capitalize Repeated Letters** (193)
 72. **String Contains Substrings** (195)
 73. **Co-prime String Lengths** (196)
+74. **203. Rock Paper Scissors Winner** (203)
 
 
 
