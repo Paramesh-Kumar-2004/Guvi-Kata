@@ -50,6 +50,8 @@
 42. **Prefix Sum Array** (137)
 43. **Suffix Sum of an Array** (138)
 44. **Date Format Validation** (142)
+45. **Equalize String Lengths** (143)
+
 
 
 
