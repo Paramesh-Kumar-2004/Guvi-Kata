@@ -48,6 +48,7 @@
 40. **Binary to Hexadecimal Conversion** (129)
 41. **Word Position in String** (136)
 42. **Prefix Sum Array** (137)
+43. **Suffix Sum of an Array** (138)
 
 
 
