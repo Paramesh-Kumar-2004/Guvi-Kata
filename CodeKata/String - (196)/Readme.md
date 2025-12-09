@@ -45,6 +45,7 @@
 37. **Sum of First and Last Digits** (125)
 38. **Check Digits 0 to K in N** (127)
 39. **Binary to Octal Conversion** (128)
+40. **Binary to Hexadecimal Conversion** (129)
 
 
 
