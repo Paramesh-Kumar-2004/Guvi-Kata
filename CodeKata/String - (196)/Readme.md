@@ -64,7 +64,9 @@
 56. **Consecutive String Check** (168)
 57. **Consecutive String Check-2** (169)
 58. **Max Length Alternating Vowel-Consonant Substring** (177)
-
+59. **Extract kth character** (178)
+60. **Uppercase Every Kth Character** (179)
+61. **First 1's Position in Binary Product** (182)
 
 
 
