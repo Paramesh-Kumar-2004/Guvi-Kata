@@ -56,6 +56,8 @@
 48. **Lexicographically Smallest String** (148)
 49. **Date to Month Name Conversion** (149)
 50. **String Deletion** (154)
+51. **Max Length Alternating Digits Substring** (159)
+52. **Reachable Point** (160)
 
 
 
