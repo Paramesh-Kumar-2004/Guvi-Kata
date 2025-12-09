@@ -77,6 +77,8 @@
 69. **Same Base Alphabets** (191)
 70. **Counting Anagram Groups** (192)
 71. **Capitalize Repeated Letters** (193)
+72. **String Contains Substrings** (195)
+73. **Co-prime String Lengths** (196)
 
 
 
