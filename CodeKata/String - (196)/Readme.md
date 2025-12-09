@@ -41,6 +41,8 @@
 33. **Least Repeated Characters** (96)
 34. **Substring Check-2** (103)
 35. **Repeating Digits Check** (123)
+36. **Kth Digit from Position** (124)
+
 
 
 
