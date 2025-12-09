@@ -42,6 +42,8 @@
 34. **Substring Check-2** (103)
 35. **Repeating Digits Check** (123)
 36. **Kth Digit from Position** (124)
+37. **Sum of First and Last Digits** (125)
+
 
 
 
