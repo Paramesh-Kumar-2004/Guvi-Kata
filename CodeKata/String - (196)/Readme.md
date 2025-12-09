@@ -51,6 +51,8 @@
 43. **Suffix Sum of an Array** (138)
 44. **Date Format Validation** (142)
 45. **Equalize String Lengths** (143)
+46. **Reverse String with Separator** (145)
+47. **Longest Word in a Sentence** (146)
 
 
 
