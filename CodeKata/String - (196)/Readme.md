@@ -43,7 +43,7 @@
 35. **Repeating Digits Check** (123)
 36. **Kth Digit from Position** (124)
 37. **Sum of First and Last Digits** (125)
-
+38. **Check Digits 0 to K in N** (127)
 
 
 
