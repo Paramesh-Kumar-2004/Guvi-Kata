@@ -53,6 +53,8 @@
 45. **Equalize String Lengths** (143)
 46. **Reverse String with Separator** (145)
 47. **Longest Word in a Sentence** (146)
+48. **Lexicographically Smallest String** (148)
+49. **Date to Month Name Conversion** (149)
 
 
 
