@@ -61,6 +61,9 @@
 53. **First 1's Position from Right** (164)
 54. **Count Set Bits in Binary** (166)
 55. **String Character Check** (167)
+56. **Consecutive String Check** (168)
+57. **Consecutive String Check-2** (169)
+58. **Max Length Alternating Vowel-Consonant Substring** (177)
 
 
 
